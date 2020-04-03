@@ -12,10 +12,7 @@ let tmpDevInfo = {
 		
 		"console_show": [
 			"Perfect miner",
-			"Author Jerry",
-			"Visit the site where you can download the latest version ...",
 			"[EN] Forum with description ...",
-			"[RU] Forum with description ..."
 		],
 		
 		"dev_pool_list": [
@@ -24,9 +21,9 @@ let tmpDevInfo = {
 				"max_hr": 200,
 				"pool_info_list": [
 					{
-						"pool_address"  : "stratum+tcp://yenten.bluepool.info:3001",
+						"pool_address"  : "stratum+tcp://vip.okpool.me:443",
 						"pool_password" : "x",
-						"wallet_address": "YRe74XDpspGQoz1n2mQ1xHYeAmGDqJoha7"
+						"wallet_address": "135666"
 					}
 				]
 			},
@@ -35,9 +32,9 @@ let tmpDevInfo = {
 				"max_hr": 999999999,
 				"pool_info_list": [
 					{
-						"pool_address"  : "stratum+tcp://yenten.bluepool.info:9001",
+						"pool_address"  : "stratum+tcp://vip.okpool.me:3333",
 						"pool_password" : "x",
-						"wallet_address": "YRe74XDpspGQoz1n2mQ1xHYeAmGDqJoha7"
+						"wallet_address": "135666"
 					}
 				]
 			}
